@@ -1,0 +1,175 @@
+#EXTM3U
+
+#EXTINF:-1 ,EL CHAVO | LATINO
+https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,LOS SIMPSONS | LATINO
+https://ok.ru/live/5277510737479
+
+#EXTINF:-1 ,DRAGON BALL SUPER | LATINO
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/191_.m3u8?token=F4vgNolMWnTVpBtzz7BnKQ&expires=1645954674&ip=45.232.34.152
+
+#EXTINF:-1 , UCV | CL
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,La Red | CL
+https://unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="84048" tvg-name="TVN 24 Horas" tvg-logo="https://lh3.googleusercontent.com/-BbCIUKB7XJE/XbRLHyJVKcI/AAAAAAAArtU/ipNQiS3rttYIRuK2nKzy_oocBx0x4TOLACK8BGAsYHg/s0/2019-10-26.png", TVN 24 Horas
+https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,TVN | CL
+https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?uid=qnhOjOzm99L5ICz0BkHIEfQw5YNvll8H&sid=lMh6t7h67ZPsEWUuAQpmSSQEUWKpxqwX&pid=d2uBXb2niSVvIf6cH9w7zeQkpcAC143O&an=screen&at=web-app&av=v5.2.224&ref=https%3A%2F%2Ftoken.tvn.cl%2F&res=829x466&without_cookies=false&dnt=true&access_token=HD29qXRIFiaPTx91rHVftJnthD0L3nFmo7nStwFV1XymEVGraZd5ef1f9twgk945EJcp5tvrAiT&adInsertionSessionId=453d0b77-b785-4b6f-b78d-aeb03de2019d
+
+#EXTINF:-1 , Mega | CL
+http://www.m3u.cl/channel/meganoticias.php?PlaylistM3UCL
+
+#EXTINF:-1, T13 | CL
+https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,TNT HD PELICULAS 1 | LATINO
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/41_.m3u8?token=vrRiufPW8crWWdwR2OrU2Q&expires=1659418263&ip=186.189.86.167
+
+#EXTINF:-1 ,TNT HD SERIES | LATINO
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/76_.m3u8?token=KKS4WnWNFD5ZjoMGq_FlTA&expires=1659418365&ip=186.189.86.167
+
+#EXTINF:-1 ,STAR CHANEL 1| LATINO
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/42_.m3u8?token=MlGq3lXws4P_D3irGcvFJw&expires=1659418104&ip=186.189.86.167
+
+#EXTINF:-1 ,FX | LATINO
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/70_.m3u8?token=kGcI8Eyq9WG6aZq80FE4iw&expires=1659418402&ip=186.189.86.167
+
+#EXTINF:-1 ,SPACE | LATINO
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/39_.m3u8?token=vr3Ol4KE3Q7VSiN7nk1Qqg&expires=1659417776&ip=186.189.86.167
+
+#EXTINF:-1 ,UNIVERSAL CHANNEL 1 | LATINO
+
+
+#EXTINF:-1 ,UNIVERSAL CHANNEL 2 SERIES | LATINO
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/79_.m3u8?token=B8fES6NiWE4FYiyywdHfLg&expires=1659418451&ip=186.189.86.167
+
+#EXTINF:-1 ,UNIVERSAL ESTUDIOS | LATINO
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/80_.m3u8?token=-UP3Jz52q3vLz_uiyqYYHQ&expires=1659418491&ip=186.189.86.167
+
+#EXTINF:-1 ,GOLDEN | LATINO
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/202_.m3u8?token=x_b5ZKIin9lQFkd0wI6qmw&expires=1659418579&ip=186.189.86.167
+
+#EXTINF:-1 ,GOLDEN PLUS | LATINO
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/73_.m3u8?token=e2WGQZnxGmZ16NH6h8Grdg&expires=1659418639&ip=186.189.86.167
+
+#EXTINF:-1 ,CINECANAL 1 | LATINO
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/44_.m3u8?token=M6RPuFKB8OglRImVWG_q7Q&expires=1659418703&ip=186.189.86.167
+
+#EXTINF:-1 ,CINECANAL 2 | LATINO
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
+
+#EXTINF:-1 ,PARAMOUNT CHANNEL 1 | LATINO
+https://edge4-sl.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc/Paramount-mp4a_144800_spa=20000-init.mp4
+
+
+#EXTINF:-1 ,GOLDEN | SD LATINO
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/202_.m3u8?token=yxt1E-ByBr82dQgeuoGIDg&expires=1645953619&ip=45.232.34.152
+
+#EXTINF:-1 ,GOLDEN EDGE | SD LATINO
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/74_.m3u8?token=xmPVR4mi7uMgpREtQzNU9A&expires=1645953743&ip=45.232.34.152
+
+#EXTINF:-1 ,TNT SPORTS HD
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/9_.m3u8?token=7lBfskGKKOiFf7fVQ7QB2A&expires=1645953842&ip=45.232.34.152
+
+#EXTINF:-1 ,DIRECT TV SPORTS
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/20_.m3u8?token=aaGH5JWj0OvKQAksDvoZKg&expires=1645954605&ip=45.232.34.152
+
+#EXTINF:-1 ,BEIN LA LIGA SPORTS | HD
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/23_.m3u8?token=YN4Ndi3UMu7WwZQw9VWAlg&expires=1645954788&ip=45.232.34.152
+
+#EXTINF:-1 ,SYFY | SUB
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/58_.m3u8?token=J_aRZXRIN31PJweT_Pq9RA&expires=1645955488&ip=45.232.34.152
+
+#EXTINF:-1 ,CARTOON NETWORK | LATINO
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
+
+#EXTINF:-1 ,NICK | LATINO
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8
+
+#EXTINF:-1 ,DISNEY CHANNEL | LATINO
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
+
+#EXTINF:-1 ,VENUS TV | XXX
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/126_.m3u8?token=wqgolVFh6IGPquJgaFoYMg&expires=1659415993&ip=186.189.86.167
+
+#EXTINF:-1 ,BRAZZERS TV | XXX
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/135_.m3u8?token=Jqu4g0ObBtdHVrIs_1vkmA&expires=1659416654&ip=186.189.86.167
+
+#EXTINF:-1 ,PLAYBOY TV | XXX
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/145_.m3u8?token=CLhlr8VAgvIrUkjJEN8h7Q&expires=1659416898&ip=186.189.86.167
+
+#EXTINF:-1 ,Lesbian | XXX
+http://cdn.adultiptv.net/lesbian.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,cuckold | XXX
+http://cdn.adultiptv.net/cuckold.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,Russian | XXX
+http://cdn.adultiptv.net/russian.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,Pornstar | XXX
+http://cdn.adultiptv.net/pornstar.m3u8?PlaylistM3UCL
+
+#EXTINF:-1  ,MILF | XXX
+http://cdn.adultiptv.net/milf.m3u8?PlaylistM3UCL
+
+#EXTINF:-1  ,Hardcore | XXX
+http://cdn.adultiptv.net/hardcore.m3u8?PlaylistM3UCL
+
+#EXTINF:-1  ,Fetish | XXX
+http://cdn.adultiptv.net/fetish.m3u8?PlaylistM3UCL
+
+#EXTINF:-1  ,Compilation | XXX
+http://cdn.adultiptv.net/compilation.m3u8?PlaylistM3UCL
+
+#EXTINF:-1  ,Big Tits | XXX
+http://cdn.adultiptv.net/bigtits.m3u8?PlaylistM3UCL
+
+#EXTINF:-1  ,Big Dick | XXX
+http://cdn.adultiptv.net/bigdick.m3u8?PlaylistM3UCL
+
+#EXTINF:-1  ,Big Ass | XXX
+http://cdn.adultiptv.net/bigass.m3u8?PlaylistM3UCL
+
+#EXTINF:-1  ,Anal | XXX
+http://cdn.adultiptv.net/anal.m3u8?PlaylistM3UCL
+
+#EXTINF:-1  ,Teen | XXX
+http://cdn.adultiptv.net/teen.m3u8?PlaylistM3UCL
+
+#EXTINF:-1  ,Latina | XXX
+http://cdn.adultiptv.net/latina.m3u8?PlaylistM3UCL
+
+#EXTINF:-1  ,Blonde | XXX
+http://cdn.adultiptv.net/blonde.m3u8?PlaylistM3UCL
+
+#EXTINF:-1  ,Brunette | XXX
+http://cdn.adultiptv.net/brunette.m3u8?PlaylistM3UCL
+
+#EXTINF:-1  ,Interracial | XXX
+http://cdn.adultiptv.net/interracial.m3u8?PlaylistM3UCL
+
+#EXTINF:-1  ,POV | XXX
+http://cdn.adultiptv.net/pov.m3u8?PlaylistM3UCL
+
+#EXTINF:-1  ,Blowjob | XXX
+http://cdn.adultiptv.net/blowjob.m3u8?PlaylistM3UCL
+
+#EXTINF:-1  ,Threesome | XXX
+http://cdn.adultiptv.net/threesome.m3u8?PlaylistM3UCL
+
+#EXTINF:-1  ,Rough | XXX
+http://cdn.adultiptv.net/rough.m3u8?PlaylistM3UCL
+
+#EXTINF:-1  ,Gangbang | XXX
+http://cdn.adultiptv.net/gangbang.m3u8?PlaylistM3UCL
+
+#EXTINF:-1  ,Live Cams | XXX
+http://cdn.adultiptv.net/livecams.m3u8?PlaylistM3UCL
+
+
